@@ -16,5 +16,5 @@ int main()
         printf ("여자");
  
  
-    return 1;
+    return 0;
  }
